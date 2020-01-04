@@ -35,5 +35,6 @@
     "friends": [
         { "name": "durga", "age": 45 }
     ]
-}
+},
+  "family": ["myFamily", "parents", "in_laws", "sister", "friends"]
 }
